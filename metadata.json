@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Security Monitoring & Incident Response System",
+  "description": "Cybersecurity SOC monitoring, SIEM log analytics, IDS/IPS intrusion detection, SOAR automated response workflows, network architecture modeling, and AI threat triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
